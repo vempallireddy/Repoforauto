@@ -6,6 +6,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AutoaccountTest</members>
         <members>ContactTrigger</members>
         <name>ApexTrigger</name>
     </types>
