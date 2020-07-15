@@ -41,7 +41,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>AutoTest__c</field>
+                <field>AutoTest2__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>TestField__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
